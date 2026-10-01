@@ -45,6 +45,14 @@ public class RebateDemo {
         r.calculate();
         r.show();
 
+OUTPUT:
+Enter number of days: 2
+Enter amount: 100
+Days = 2
+Amount = 100.0
+Rebate = 10.0
+Final Amount = 90.0
+
         sc.close();
     }
 }
